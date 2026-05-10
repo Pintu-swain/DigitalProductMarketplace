@@ -144,9 +144,9 @@ During my internship period, I participated in multiple community-oriented activ
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://github.com/sure-trust/PINTU-SWAIN-g20-java/blob/main/Final%20capstone%20project/assets/1.jpeg" alt="Community Service Photo 1" width="30%">
-<img src="https://github.com/sure-trust/PINTU-SWAIN-g20-java/blob/main/Final%20capstone%20project/assets/2.jpeg" alt="Community Service Photo 2" width="30%">
-<img src="https://github.com/sure-trust/PINTU-SWAIN-g20-java/blob/main/Final%20capstone%20project/assets/3.jpeg" alt="Community Service Photo 3" width="30%">
+<img src="https://github.com/Pintu-swain/DigitalProductMarketplace/blob/main/assets/1.jpeg" alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/Pintu-swain/DigitalProductMarketplace/blob/main/assets/2.jpeg" alt="Community Service Photo 2" width="30%">
+<img src="https://github.com/Pintu-swain/DigitalProductMarketplace/blob/main/assets/3.jpeg" alt="Community Service Photo 3" width="30%">
 </div>
 
 ---

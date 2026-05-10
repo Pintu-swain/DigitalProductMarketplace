@@ -87,7 +87,7 @@ Overall, the SureTrust Java Internship helped me build a strong programming foun
 A full-stack e-commerce platform designed specifically for buying and selling digital products such as e-books, software templates, and assets. The application features a secure user authentication system, an admin panel for inventory management, and a seamless checkout experience with real-time payment integration.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/PINTU-SWAIN-g20-java/blob/main/Final%20capstone%20project/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Pintu-swain/DigitalProductMarketplace/blob/main/SURE%20Trust%20project%20document.pdf"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
